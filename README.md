@@ -13,3 +13,4 @@ Below are MongoDB commands, which you can use in your MongoDB shell
 | Commands | Uses |
 | --------------- | -------------- |
 | **`show dbs`** | To display list of databases on your shell |
+| **`use`**      | To switch between databases on your shell |
