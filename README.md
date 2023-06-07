@@ -16,3 +16,6 @@ Below are MongoDB commands, which you can use in your MongoDB shell
 | **`show dbs`** | To display list of databases on your shell, e.g `show dbs`, by defaults it's will display three databases which are `admin`, `local`, `config` |
 | **`use`**      | To switch between databases on your shell e.g `use shop`, automatically, it will create a shop database for you.|
 | **`db.`**      | To create a collection in your database, the `.` suffix, that's where you will insert your collection name e.g `db.products`, it will create products collection for you automatically in your db.  |
+
+
+## DOCUMENT AND CRUD BASICS 
