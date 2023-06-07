@@ -8,7 +8,7 @@ You can install MongoDB on windows by visiting this link
 [MongoDB installation on windows](https://www.mongodb.com/try/download/community), by defaults, your windows Operating system will be pre selected.
 [MongoDB shell download](https://www.mongodb.com/docs/mongodb-shell/install/), follow this instructions to also install MongoDB shell on window.
 
-## MongoDB Commands
+### MongoDB Commands
 Below are MongoDB commands, which you can use in your MongoDB shell
 
 | Commands | Uses |
@@ -18,4 +18,4 @@ Below are MongoDB commands, which you can use in your MongoDB shell
 | **`db.`**      | To create a collection in your database, the `.` suffix, that's where you will insert your collection name e.g `db.products`, it will create products collection for you automatically in your db.  |
 
 
-## DOCUMENT AND CRUD BASICS 
+### DOCUMENT AND CRUD BASICS 
