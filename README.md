@@ -14,3 +14,4 @@ Below are MongoDB commands, which you can use in your MongoDB shell
 | --------------- | -------------- |
 | **`show dbs`** | To display list of databases on your shell |
 | **`use`**      | To switch between databases on your shell |
+| **`db.`**      | To create a collection in your database, the `.` suffix, that's where you will insert your collection e.g `db.products`, it will create products collection for you automatically in your db  |
