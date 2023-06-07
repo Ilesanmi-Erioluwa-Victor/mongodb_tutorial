@@ -1,7 +1,7 @@
 ## What is MongoDB ?
 Mongodb is mostly important database server that allows you to run different databases on it.
 MongoDB is so called no SQL solution because it's basically following an opposite concept or philosophy.
-A record in MongoDB is a document, which is a data structure composed of field and value pairs. MongoDB documents are similar to JSON objects. The values of fields may include other documents, arrays, and arrays of documents.[from MongoDB page]
+A record in MongoDB is a document, which is a data structure composed of field and value pairs. MongoDB documents are similar to JSON objects. The values of fields may include other documents, arrays, and arrays of documents.
 
 ### Installing MongoDB on windows systems
 You can install MongoDB on windows by visiting this link
