@@ -26,3 +26,5 @@ Below are MongoDB commands, which you can use in your MongoDB shell
  ### CRUD OPERATIONS AND MONGODB
 
 ### PROJECTION
+
+### EMBEDDED DOCUMENTS
