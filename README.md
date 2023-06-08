@@ -20,3 +20,6 @@ Below are MongoDB commands, which you can use in your MongoDB shell
 
 ### DOCUMENT AND CRUD BASICS 
  **`DATABASES, COLLECTIONS, DOCUMENTS`**
+
+ ### JSON VS BSON
+ 
