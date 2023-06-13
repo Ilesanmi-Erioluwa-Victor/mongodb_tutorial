@@ -28,3 +28,5 @@ Below are MongoDB commands, which you can use in your MongoDB shell
 ### PROJECTION
 
 ### EMBEDDED DOCUMENTS
+
+### DATA SCHEMAS AND DATA MODELLING
